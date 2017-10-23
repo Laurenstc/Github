@@ -37,7 +37,7 @@ train_control <- trainControl(method="cv", number = 5)
 model <- train(Survived ~ Pclass + Sex + SibSp + Embarked + Fare + Parch, 
                data = trainSet, 
                method = 'rf', 
-               trcontrol = train_control
+               trControl = train_control
           )
 #run model
 model
