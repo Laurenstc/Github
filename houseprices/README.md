@@ -1,4 +1,4 @@
-# Assignment 1 - House Price Prediction
+# House Price Prediction
 ### Laurens ten Cate - MBD'18 - Machine Learning II
 
 **kaggle score notes**
