@@ -1,4 +1,4 @@
-# Personal projects
+# Kaggle competitions 
 
 Mostly kaggle competition entries or kernels that I ran.
 
